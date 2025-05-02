@@ -1,3 +1,4 @@
+# serial-responder
 Serial Responder
 Serial Responder is a lightweight C++ utility designed to facilitate testing of serial communication between devices. It enables developers to simulate serial interactions, making it easier to debug and validate serial interfaces in embedded systems, microcontrollers, and other hardware projects.
 
@@ -79,4 +80,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 License
 This project is licensed under the MIT License.
 
-# serial-responder
+
